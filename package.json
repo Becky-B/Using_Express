@@ -1,0 +1,24 @@
+{
+  "name": "Express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "PostmanPokemon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Becky-B/Using_Postman.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Becky-B/Using_Postman/issues"
+  },
+  "homepage": "https://github.com/Becky-B/Using_Postman#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "faker": "^4.1.0"
+  }
+}
